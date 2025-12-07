@@ -38,6 +38,11 @@
 - Add caching for inventory loads and itinerary generation; paginate UI for large schedules.
 - Introduce per-activity cost rollups and validation of `estimated_cost_idr` vs budget.
 
+## Tools & Resources
+- **Ollama** for running local LLMs (default `qwen3:4b-instruct` configured in `llm_client.py`).
+- **ChatGPT** and **Qwen** models for ideation and LLM-driven itinerary generation (via Ollama).
+- **Cursor** editor assistance for navigation and code editing.
+
 ## Vulnerabilities & Risks
 - **LLM output formatting drift (UI-driven inputs reduce injection risk)**  
   1) Even with UI-driven inputs (no free-form chat), the model can return malformed JSON or omit required fields.  

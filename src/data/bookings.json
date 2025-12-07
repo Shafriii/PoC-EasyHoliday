@@ -157,5 +157,164 @@
     "total_price_idr": 11916000,
     "payment_transaction_id": "pay_7104c4e954a94d459d8fe947143717be",
     "card_last4": "1312"
+  },
+  {
+    "booking_id": "BK-0004",
+    "created_at": "2025-12-07T06:35:16.905118",
+    "country": "Thailand",
+    "cities": [
+      "Bangkok"
+    ],
+    "start_date": "2025-12-07",
+    "end_date": "2025-12-13",
+    "flight_ids": [
+      "FL-JKT-BKK-001-01",
+      "FL-BKK-JKT-007-01"
+    ],
+    "hotel_ids": [
+      "HT-BAN-BA-000"
+    ],
+    "stays": [
+      {
+        "hotel_id": "HT-BAN-BA-000",
+        "hotel_name": "Bangkok Backpacker Stay 0",
+        "city": "Bangkok",
+        "country": "Thailand",
+        "nights": 7,
+        "stay_start_date": "2025-12-07",
+        "stay_end_date": "2025-12-13",
+        "category": "backpacker",
+        "price_per_night_idr": 450000
+      }
+    ],
+    "flight_details": [
+      {
+        "id": "FL-JKT-BKK-001-01",
+        "from": "Jakarta",
+        "to": "Bangkok",
+        "airline": "Asean Sky",
+        "base_price_idr": 2130000,
+        "seats_left": 14,
+        "date": "2025-12-07"
+      },
+      {
+        "id": "FL-BKK-JKT-007-01",
+        "from": "Bangkok",
+        "to": "Jakarta",
+        "airline": "Asean Sky",
+        "base_price_idr": 2080000,
+        "seats_left": 14,
+        "date": "2025-12-13"
+      }
+    ],
+    "total_price_idr": 8832000,
+    "payment_transaction_id": "pay_63349cc9f1844d099cceed8ae585cf9f",
+    "card_last4": "1312"
+  },
+  {
+    "booking_id": "BK-0005",
+    "created_at": "2025-12-07T07:26:51.315116",
+    "country": "Japan",
+    "cities": [
+      "Tokyo"
+    ],
+    "start_date": "2025-12-07",
+    "end_date": "2025-12-09",
+    "flight_ids": [
+      "FL-JKT-TYO-0001-01",
+      "FL-TYO-JKT-0003-01"
+    ],
+    "hotel_ids": [
+      "HT-TOK-BA-01"
+    ],
+    "stays": [
+      {
+        "hotel_id": "HT-TOK-BA-01",
+        "hotel_name": "Tokyo Backpacker Stay 1",
+        "city": "Tokyo",
+        "country": "Japan",
+        "nights": 3,
+        "stay_start_date": "2025-12-07",
+        "stay_end_date": "2025-12-09",
+        "category": "backpacker",
+        "price_per_night_idr": 450000
+      }
+    ],
+    "flight_details": [
+      {
+        "id": "FL-JKT-TYO-0001-01",
+        "from": "Jakarta",
+        "to": "Tokyo",
+        "airline": "Pacific Sunrise",
+        "base_price_idr": 4330000,
+        "seats_left": 16,
+        "date": "2025-12-07"
+      },
+      {
+        "id": "FL-TYO-JKT-0003-01",
+        "from": "Tokyo",
+        "to": "Jakarta",
+        "airline": "Pacific Sunrise",
+        "base_price_idr": 4250000,
+        "seats_left": 6,
+        "date": "2025-12-09"
+      }
+    ],
+    "total_price_idr": 11916000,
+    "payment_transaction_id": "pay_ba641d3730114a6ea07d0ca46e939e2c",
+    "card_last4": "1312"
+  },
+  {
+    "booking_id": "BK-0006",
+    "created_at": "2025-12-07T07:36:39.542681",
+    "country": "Japan",
+    "cities": [
+      "Tokyo"
+    ],
+    "start_date": "2025-12-11",
+    "end_date": "2025-12-12",
+    "flight_ids": [
+      "FL-JKT-TYO-0005-01",
+      "FL-TYO-JKT-0006-01"
+    ],
+    "hotel_ids": [
+      "HT-TOK-BA-01"
+    ],
+    "stays": [
+      {
+        "hotel_id": "HT-TOK-BA-01",
+        "hotel_name": "Tokyo Backpacker Stay 1",
+        "city": "Tokyo",
+        "country": "Japan",
+        "nights": 2,
+        "stay_start_date": "2025-12-11",
+        "stay_end_date": "2025-12-12",
+        "category": "backpacker",
+        "price_per_night_idr": 450000
+      }
+    ],
+    "flight_details": [
+      {
+        "id": "FL-JKT-TYO-0005-01",
+        "from": "Jakarta",
+        "to": "Tokyo",
+        "airline": "Pacific Sunrise",
+        "base_price_idr": 4360000,
+        "seats_left": 6,
+        "date": "2025-12-11"
+      },
+      {
+        "id": "FL-TYO-JKT-0006-01",
+        "from": "Tokyo",
+        "to": "Jakarta",
+        "airline": "Pacific Sunrise",
+        "base_price_idr": 4250000,
+        "seats_left": 18,
+        "date": "2025-12-12"
+      }
+    ],
+    "total_price_idr": 11412000,
+    "payment_transaction_id": "pay_789843e4464c4cd9a193dbe173ee6b29",
+    "card_last4": "1312"
   }
 ]

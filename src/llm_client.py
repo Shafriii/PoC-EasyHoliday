@@ -4,7 +4,7 @@ import json
 import requests
 
 # Central point to change model names for Ollama calls.
-DEFAULT_OLLAMA_MODEL = "qwen3:4b-instruct"
+DEFAULT_OLLAMA_MODEL = "deepseek-r1:1.5b"
 
 
 class LLMError(Exception):
