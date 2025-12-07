@@ -1,0 +1,5402 @@
+[
+  {
+    "id": "FL-JKT-DPS-001-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1230000,
+    "seats_left": 14,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-DPS-JKT-001-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1180000,
+    "seats_left": 10,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-JKT-DPS-001-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1270000,
+    "seats_left": 10,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-DPS-JKT-001-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1220000,
+    "seats_left": 6,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-JKT-JOG-001-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 930000,
+    "seats_left": 14,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-JOG-JKT-001-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 880000,
+    "seats_left": 10,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-JKT-JOG-001-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 970000,
+    "seats_left": 10,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-JOG-JKT-001-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 920000,
+    "seats_left": 6,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-JKT-BKK-001-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2130000,
+    "seats_left": 14,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-BKK-JKT-001-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2080000,
+    "seats_left": 10,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-JKT-BKK-001-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2170000,
+    "seats_left": 10,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-BKK-JKT-001-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2120000,
+    "seats_left": 6,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-JKT-TYO-001-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4330000,
+    "seats_left": 11,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-TYO-JKT-001-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4280000,
+    "seats_left": 10,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-JKT-TYO-001-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4370000,
+    "seats_left": 10,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-TYO-JKT-001-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4320000,
+    "seats_left": 6,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-TYO-OSA-001-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1430000,
+    "seats_left": 14,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-OSA-TYO-001-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1380000,
+    "seats_left": 10,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-TYO-OSA-001-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1470000,
+    "seats_left": 10,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-OSA-TYO-001-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1420000,
+    "seats_left": 6,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-TYO-KYT-001-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1230000,
+    "seats_left": 14,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-KYT-TYO-001-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1180000,
+    "seats_left": 10,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-TYO-KYT-001-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1270000,
+    "seats_left": 10,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-KYT-TYO-001-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1220000,
+    "seats_left": 6,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL-JKT-DPS-002-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1260000,
+    "seats_left": 10,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-DPS-JKT-002-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1210000,
+    "seats_left": 6,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-JKT-DPS-002-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1300000,
+    "seats_left": 6,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-DPS-JKT-002-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1250000,
+    "seats_left": 4,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-JKT-JOG-002-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 960000,
+    "seats_left": 10,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-JOG-JKT-002-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 910000,
+    "seats_left": 6,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-JKT-JOG-002-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1000000,
+    "seats_left": 6,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-JOG-JKT-002-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 950000,
+    "seats_left": 4,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-JKT-BKK-002-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2160000,
+    "seats_left": 10,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-BKK-JKT-002-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2110000,
+    "seats_left": 6,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-JKT-BKK-002-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2200000,
+    "seats_left": 6,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-BKK-JKT-002-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2150000,
+    "seats_left": 4,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-JKT-TYO-002-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4360000,
+    "seats_left": 10,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-TYO-JKT-002-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4310000,
+    "seats_left": 6,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-JKT-TYO-002-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4400000,
+    "seats_left": 6,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-TYO-JKT-002-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4350000,
+    "seats_left": 4,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-TYO-OSA-002-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1460000,
+    "seats_left": 10,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-OSA-TYO-002-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1410000,
+    "seats_left": 6,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-TYO-OSA-002-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1500000,
+    "seats_left": 6,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-OSA-TYO-002-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1450000,
+    "seats_left": 4,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-TYO-KYT-002-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1260000,
+    "seats_left": 10,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-KYT-TYO-002-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1210000,
+    "seats_left": 6,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-TYO-KYT-002-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1300000,
+    "seats_left": 6,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-KYT-TYO-002-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1250000,
+    "seats_left": 4,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL-JKT-DPS-003-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1200000,
+    "seats_left": 6,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-DPS-JKT-003-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1150000,
+    "seats_left": 4,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-JKT-DPS-003-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1240000,
+    "seats_left": 4,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-DPS-JKT-003-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1190000,
+    "seats_left": 0,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-JKT-JOG-003-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 900000,
+    "seats_left": 6,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-JOG-JKT-003-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 850000,
+    "seats_left": 4,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-JKT-JOG-003-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 940000,
+    "seats_left": 4,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-JOG-JKT-003-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 890000,
+    "seats_left": 0,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-JKT-BKK-003-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2100000,
+    "seats_left": 6,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-BKK-JKT-003-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2050000,
+    "seats_left": 4,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-JKT-BKK-003-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2140000,
+    "seats_left": 4,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-BKK-JKT-003-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2090000,
+    "seats_left": 0,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-JKT-TYO-003-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4300000,
+    "seats_left": 6,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-TYO-JKT-003-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4250000,
+    "seats_left": 3,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-JKT-TYO-003-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4340000,
+    "seats_left": 4,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-TYO-JKT-003-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4290000,
+    "seats_left": 0,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-TYO-OSA-003-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1400000,
+    "seats_left": 6,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-OSA-TYO-003-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1350000,
+    "seats_left": 4,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-TYO-OSA-003-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1440000,
+    "seats_left": 4,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-OSA-TYO-003-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1390000,
+    "seats_left": 0,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-TYO-KYT-003-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1200000,
+    "seats_left": 6,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-KYT-TYO-003-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1150000,
+    "seats_left": 4,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-TYO-KYT-003-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1240000,
+    "seats_left": 4,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-KYT-TYO-003-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1190000,
+    "seats_left": 0,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FL-JKT-DPS-004-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1230000,
+    "seats_left": 4,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-DPS-JKT-004-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1180000,
+    "seats_left": 0,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-JKT-DPS-004-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1270000,
+    "seats_left": 0,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-DPS-JKT-004-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1220000,
+    "seats_left": 22,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-JKT-JOG-004-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 930000,
+    "seats_left": 4,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-JOG-JKT-004-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 880000,
+    "seats_left": 0,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-JKT-JOG-004-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 970000,
+    "seats_left": 0,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-JOG-JKT-004-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 920000,
+    "seats_left": 22,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-JKT-BKK-004-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2130000,
+    "seats_left": 4,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-BKK-JKT-004-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2080000,
+    "seats_left": 0,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-JKT-BKK-004-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2170000,
+    "seats_left": 0,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-BKK-JKT-004-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2120000,
+    "seats_left": 22,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-JKT-TYO-004-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4330000,
+    "seats_left": 4,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-TYO-JKT-004-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4280000,
+    "seats_left": 0,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-JKT-TYO-004-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4370000,
+    "seats_left": 0,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-TYO-JKT-004-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4320000,
+    "seats_left": 22,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-TYO-OSA-004-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1430000,
+    "seats_left": 4,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-OSA-TYO-004-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1380000,
+    "seats_left": 0,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-TYO-OSA-004-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1470000,
+    "seats_left": 0,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-OSA-TYO-004-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1420000,
+    "seats_left": 22,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-TYO-KYT-004-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1230000,
+    "seats_left": 4,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-KYT-TYO-004-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1180000,
+    "seats_left": 0,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-TYO-KYT-004-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1270000,
+    "seats_left": 0,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-KYT-TYO-004-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1220000,
+    "seats_left": 22,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FL-JKT-DPS-005-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1260000,
+    "seats_left": 0,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-DPS-JKT-005-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1210000,
+    "seats_left": 22,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-JKT-DPS-005-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1300000,
+    "seats_left": 22,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-DPS-JKT-005-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1250000,
+    "seats_left": 18,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-JKT-JOG-005-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 960000,
+    "seats_left": 0,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-JOG-JKT-005-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 910000,
+    "seats_left": 22,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-JKT-JOG-005-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1000000,
+    "seats_left": 22,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-JOG-JKT-005-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 950000,
+    "seats_left": 18,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-JKT-BKK-005-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2160000,
+    "seats_left": 0,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-BKK-JKT-005-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2110000,
+    "seats_left": 22,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-JKT-BKK-005-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2200000,
+    "seats_left": 22,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-BKK-JKT-005-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2150000,
+    "seats_left": 18,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-JKT-TYO-005-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4360000,
+    "seats_left": 0,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-TYO-JKT-005-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4310000,
+    "seats_left": 20,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-JKT-TYO-005-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4400000,
+    "seats_left": 22,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-TYO-JKT-005-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4350000,
+    "seats_left": 18,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-TYO-OSA-005-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1460000,
+    "seats_left": 0,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-OSA-TYO-005-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1410000,
+    "seats_left": 22,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-TYO-OSA-005-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1500000,
+    "seats_left": 22,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-OSA-TYO-005-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1450000,
+    "seats_left": 18,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-TYO-KYT-005-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1260000,
+    "seats_left": 0,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-KYT-TYO-005-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1210000,
+    "seats_left": 22,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-TYO-KYT-005-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1300000,
+    "seats_left": 22,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-KYT-TYO-005-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1250000,
+    "seats_left": 18,
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL-JKT-DPS-006-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1200000,
+    "seats_left": 22,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-DPS-JKT-006-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1150000,
+    "seats_left": 18,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-JKT-DPS-006-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1240000,
+    "seats_left": 18,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-DPS-JKT-006-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1190000,
+    "seats_left": 14,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-JKT-JOG-006-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 900000,
+    "seats_left": 22,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-JOG-JKT-006-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 850000,
+    "seats_left": 18,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-JKT-JOG-006-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 940000,
+    "seats_left": 18,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-JOG-JKT-006-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 890000,
+    "seats_left": 14,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-JKT-BKK-006-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2100000,
+    "seats_left": 22,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-BKK-JKT-006-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2050000,
+    "seats_left": 18,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-JKT-BKK-006-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2140000,
+    "seats_left": 18,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-BKK-JKT-006-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2090000,
+    "seats_left": 14,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-JKT-TYO-006-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4300000,
+    "seats_left": 22,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-TYO-JKT-006-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4250000,
+    "seats_left": 18,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-JKT-TYO-006-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4340000,
+    "seats_left": 18,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-TYO-JKT-006-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4290000,
+    "seats_left": 14,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-TYO-OSA-006-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1400000,
+    "seats_left": 22,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-OSA-TYO-006-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1350000,
+    "seats_left": 18,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-TYO-OSA-006-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1440000,
+    "seats_left": 18,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-OSA-TYO-006-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1390000,
+    "seats_left": 14,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-TYO-KYT-006-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1200000,
+    "seats_left": 22,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-KYT-TYO-006-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1150000,
+    "seats_left": 18,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-TYO-KYT-006-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1240000,
+    "seats_left": 18,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-KYT-TYO-006-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1190000,
+    "seats_left": 14,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL-JKT-DPS-007-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1230000,
+    "seats_left": 18,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-DPS-JKT-007-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1180000,
+    "seats_left": 14,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-JKT-DPS-007-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1270000,
+    "seats_left": 14,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-DPS-JKT-007-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1220000,
+    "seats_left": 10,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-JKT-JOG-007-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 930000,
+    "seats_left": 18,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-JOG-JKT-007-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 880000,
+    "seats_left": 14,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-JKT-JOG-007-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 970000,
+    "seats_left": 14,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-JOG-JKT-007-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 920000,
+    "seats_left": 10,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-JKT-BKK-007-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2130000,
+    "seats_left": 18,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-BKK-JKT-007-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2080000,
+    "seats_left": 14,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-JKT-BKK-007-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2170000,
+    "seats_left": 14,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-BKK-JKT-007-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2120000,
+    "seats_left": 10,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-JKT-TYO-007-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4330000,
+    "seats_left": 18,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-TYO-JKT-007-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4280000,
+    "seats_left": 14,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-JKT-TYO-007-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4370000,
+    "seats_left": 14,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-TYO-JKT-007-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4320000,
+    "seats_left": 10,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-TYO-OSA-007-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1430000,
+    "seats_left": 18,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-OSA-TYO-007-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1380000,
+    "seats_left": 14,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-TYO-OSA-007-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1470000,
+    "seats_left": 14,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-OSA-TYO-007-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1420000,
+    "seats_left": 10,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-TYO-KYT-007-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1230000,
+    "seats_left": 18,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-KYT-TYO-007-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1180000,
+    "seats_left": 14,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-TYO-KYT-007-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1270000,
+    "seats_left": 14,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-KYT-TYO-007-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1220000,
+    "seats_left": 10,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FL-JKT-DPS-008-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1260000,
+    "seats_left": 14,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-DPS-JKT-008-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1210000,
+    "seats_left": 10,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-JKT-DPS-008-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1300000,
+    "seats_left": 10,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-DPS-JKT-008-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1250000,
+    "seats_left": 6,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-JKT-JOG-008-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 960000,
+    "seats_left": 14,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-JOG-JKT-008-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 910000,
+    "seats_left": 10,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-JKT-JOG-008-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1000000,
+    "seats_left": 10,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-JOG-JKT-008-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 950000,
+    "seats_left": 6,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-JKT-BKK-008-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2160000,
+    "seats_left": 14,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-BKK-JKT-008-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2110000,
+    "seats_left": 10,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-JKT-BKK-008-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2200000,
+    "seats_left": 10,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-BKK-JKT-008-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2150000,
+    "seats_left": 6,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-JKT-TYO-008-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4360000,
+    "seats_left": 14,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-TYO-JKT-008-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4310000,
+    "seats_left": 10,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-JKT-TYO-008-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4400000,
+    "seats_left": 10,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-TYO-JKT-008-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4350000,
+    "seats_left": 6,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-TYO-OSA-008-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1460000,
+    "seats_left": 14,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-OSA-TYO-008-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1410000,
+    "seats_left": 10,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-TYO-OSA-008-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1500000,
+    "seats_left": 10,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-OSA-TYO-008-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1450000,
+    "seats_left": 6,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-TYO-KYT-008-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1260000,
+    "seats_left": 14,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-KYT-TYO-008-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1210000,
+    "seats_left": 10,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-TYO-KYT-008-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1300000,
+    "seats_left": 10,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-KYT-TYO-008-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1250000,
+    "seats_left": 6,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FL-JKT-DPS-009-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1200000,
+    "seats_left": 10,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-DPS-JKT-009-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1150000,
+    "seats_left": 6,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-JKT-DPS-009-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1240000,
+    "seats_left": 6,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-DPS-JKT-009-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1190000,
+    "seats_left": 4,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-JKT-JOG-009-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 900000,
+    "seats_left": 10,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-JOG-JKT-009-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 850000,
+    "seats_left": 6,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-JKT-JOG-009-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 940000,
+    "seats_left": 6,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-JOG-JKT-009-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 890000,
+    "seats_left": 4,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-JKT-BKK-009-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2100000,
+    "seats_left": 10,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-BKK-JKT-009-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2050000,
+    "seats_left": 6,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-JKT-BKK-009-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2140000,
+    "seats_left": 6,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-BKK-JKT-009-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2090000,
+    "seats_left": 4,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-JKT-TYO-009-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4300000,
+    "seats_left": 10,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-TYO-JKT-009-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4250000,
+    "seats_left": 6,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-JKT-TYO-009-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4340000,
+    "seats_left": 6,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-TYO-JKT-009-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4290000,
+    "seats_left": 4,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-TYO-OSA-009-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1400000,
+    "seats_left": 10,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-OSA-TYO-009-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1350000,
+    "seats_left": 6,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-TYO-OSA-009-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1440000,
+    "seats_left": 6,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-OSA-TYO-009-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1390000,
+    "seats_left": 4,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-TYO-KYT-009-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1200000,
+    "seats_left": 10,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-KYT-TYO-009-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1150000,
+    "seats_left": 6,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-TYO-KYT-009-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1240000,
+    "seats_left": 6,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-KYT-TYO-009-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1190000,
+    "seats_left": 4,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL-JKT-DPS-010-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1230000,
+    "seats_left": 6,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-DPS-JKT-010-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1180000,
+    "seats_left": 4,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-JKT-DPS-010-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1270000,
+    "seats_left": 4,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-DPS-JKT-010-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1220000,
+    "seats_left": 0,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-JKT-JOG-010-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 930000,
+    "seats_left": 6,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-JOG-JKT-010-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 880000,
+    "seats_left": 4,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-JKT-JOG-010-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 970000,
+    "seats_left": 4,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-JOG-JKT-010-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 920000,
+    "seats_left": 0,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-JKT-BKK-010-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2130000,
+    "seats_left": 6,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-BKK-JKT-010-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2080000,
+    "seats_left": 4,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-JKT-BKK-010-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2170000,
+    "seats_left": 4,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-BKK-JKT-010-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2120000,
+    "seats_left": 0,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-JKT-TYO-010-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4330000,
+    "seats_left": 6,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-TYO-JKT-010-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4280000,
+    "seats_left": 4,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-JKT-TYO-010-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4370000,
+    "seats_left": 4,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-TYO-JKT-010-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4320000,
+    "seats_left": 0,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-TYO-OSA-010-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1430000,
+    "seats_left": 6,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-OSA-TYO-010-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1380000,
+    "seats_left": 4,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-TYO-OSA-010-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1470000,
+    "seats_left": 4,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-OSA-TYO-010-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1420000,
+    "seats_left": 0,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-TYO-KYT-010-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1230000,
+    "seats_left": 6,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-KYT-TYO-010-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1180000,
+    "seats_left": 4,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-TYO-KYT-010-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1270000,
+    "seats_left": 4,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-KYT-TYO-010-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1220000,
+    "seats_left": 0,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL-JKT-DPS-011-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1260000,
+    "seats_left": 4,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-DPS-JKT-011-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1210000,
+    "seats_left": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-JKT-DPS-011-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1300000,
+    "seats_left": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-DPS-JKT-011-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1250000,
+    "seats_left": 22,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-JKT-JOG-011-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 960000,
+    "seats_left": 4,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-JOG-JKT-011-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 910000,
+    "seats_left": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-JKT-JOG-011-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1000000,
+    "seats_left": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-JOG-JKT-011-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 950000,
+    "seats_left": 22,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-JKT-BKK-011-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2160000,
+    "seats_left": 4,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-BKK-JKT-011-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2110000,
+    "seats_left": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-JKT-BKK-011-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2200000,
+    "seats_left": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-BKK-JKT-011-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2150000,
+    "seats_left": 22,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-JKT-TYO-011-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4360000,
+    "seats_left": 4,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-TYO-JKT-011-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4310000,
+    "seats_left": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-JKT-TYO-011-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4400000,
+    "seats_left": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-TYO-JKT-011-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4350000,
+    "seats_left": 22,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-TYO-OSA-011-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1460000,
+    "seats_left": 4,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-OSA-TYO-011-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1410000,
+    "seats_left": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-TYO-OSA-011-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1500000,
+    "seats_left": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-OSA-TYO-011-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1450000,
+    "seats_left": 22,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-TYO-KYT-011-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1260000,
+    "seats_left": 4,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-KYT-TYO-011-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1210000,
+    "seats_left": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-TYO-KYT-011-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1300000,
+    "seats_left": 0,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-KYT-TYO-011-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1250000,
+    "seats_left": 22,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL-JKT-DPS-012-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1200000,
+    "seats_left": 0,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-DPS-JKT-012-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1150000,
+    "seats_left": 22,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-JKT-DPS-012-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1240000,
+    "seats_left": 22,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-DPS-JKT-012-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1190000,
+    "seats_left": 18,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-JKT-JOG-012-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 900000,
+    "seats_left": 0,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-JOG-JKT-012-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 850000,
+    "seats_left": 22,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-JKT-JOG-012-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 940000,
+    "seats_left": 22,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-JOG-JKT-012-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 890000,
+    "seats_left": 18,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-JKT-BKK-012-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2100000,
+    "seats_left": 0,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-BKK-JKT-012-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2050000,
+    "seats_left": 22,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-JKT-BKK-012-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2140000,
+    "seats_left": 22,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-BKK-JKT-012-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2090000,
+    "seats_left": 18,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-JKT-TYO-012-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4300000,
+    "seats_left": 0,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-TYO-JKT-012-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4250000,
+    "seats_left": 22,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-JKT-TYO-012-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4340000,
+    "seats_left": 22,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-TYO-JKT-012-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4290000,
+    "seats_left": 18,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-TYO-OSA-012-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1400000,
+    "seats_left": 0,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-OSA-TYO-012-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1350000,
+    "seats_left": 22,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-TYO-OSA-012-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1440000,
+    "seats_left": 22,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-OSA-TYO-012-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1390000,
+    "seats_left": 18,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-TYO-KYT-012-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1200000,
+    "seats_left": 0,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-KYT-TYO-012-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1150000,
+    "seats_left": 22,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-TYO-KYT-012-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1240000,
+    "seats_left": 22,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-KYT-TYO-012-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1190000,
+    "seats_left": 18,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FL-JKT-DPS-013-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1230000,
+    "seats_left": 22,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-DPS-JKT-013-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1180000,
+    "seats_left": 18,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-JKT-DPS-013-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1270000,
+    "seats_left": 18,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-DPS-JKT-013-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1220000,
+    "seats_left": 14,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-JKT-JOG-013-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 930000,
+    "seats_left": 22,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-JOG-JKT-013-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 880000,
+    "seats_left": 18,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-JKT-JOG-013-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 970000,
+    "seats_left": 18,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-JOG-JKT-013-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 920000,
+    "seats_left": 14,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-JKT-BKK-013-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2130000,
+    "seats_left": 22,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-BKK-JKT-013-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2080000,
+    "seats_left": 18,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-JKT-BKK-013-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2170000,
+    "seats_left": 18,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-BKK-JKT-013-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2120000,
+    "seats_left": 14,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-JKT-TYO-013-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4330000,
+    "seats_left": 22,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-TYO-JKT-013-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4280000,
+    "seats_left": 18,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-JKT-TYO-013-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4370000,
+    "seats_left": 18,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-TYO-JKT-013-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4320000,
+    "seats_left": 14,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-TYO-OSA-013-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1430000,
+    "seats_left": 22,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-OSA-TYO-013-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1380000,
+    "seats_left": 18,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-TYO-OSA-013-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1470000,
+    "seats_left": 18,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-OSA-TYO-013-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1420000,
+    "seats_left": 14,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-TYO-KYT-013-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1230000,
+    "seats_left": 22,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-KYT-TYO-013-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1180000,
+    "seats_left": 18,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-TYO-KYT-013-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1270000,
+    "seats_left": 18,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-KYT-TYO-013-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1220000,
+    "seats_left": 14,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FL-JKT-DPS-014-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1260000,
+    "seats_left": 18,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-DPS-JKT-014-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1210000,
+    "seats_left": 14,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-JKT-DPS-014-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1300000,
+    "seats_left": 14,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-DPS-JKT-014-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1250000,
+    "seats_left": 10,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-JKT-JOG-014-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 960000,
+    "seats_left": 18,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-JOG-JKT-014-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 910000,
+    "seats_left": 14,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-JKT-JOG-014-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1000000,
+    "seats_left": 14,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-JOG-JKT-014-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 950000,
+    "seats_left": 10,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-JKT-BKK-014-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2160000,
+    "seats_left": 18,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-BKK-JKT-014-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2110000,
+    "seats_left": 14,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-JKT-BKK-014-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2200000,
+    "seats_left": 14,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-BKK-JKT-014-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2150000,
+    "seats_left": 10,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-JKT-TYO-014-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4360000,
+    "seats_left": 18,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-TYO-JKT-014-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4310000,
+    "seats_left": 14,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-JKT-TYO-014-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4400000,
+    "seats_left": 14,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-TYO-JKT-014-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4350000,
+    "seats_left": 10,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-TYO-OSA-014-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1460000,
+    "seats_left": 18,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-OSA-TYO-014-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1410000,
+    "seats_left": 14,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-TYO-OSA-014-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1500000,
+    "seats_left": 14,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-OSA-TYO-014-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1450000,
+    "seats_left": 10,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-TYO-KYT-014-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1260000,
+    "seats_left": 18,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-KYT-TYO-014-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1210000,
+    "seats_left": 14,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-TYO-KYT-014-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1300000,
+    "seats_left": 14,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-KYT-TYO-014-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1250000,
+    "seats_left": 10,
+    "date": "2025-12-20"
+  },
+  {
+    "id": "FL-JKT-DPS-015-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1200000,
+    "seats_left": 14,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-DPS-JKT-015-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1150000,
+    "seats_left": 10,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-JKT-DPS-015-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1240000,
+    "seats_left": 10,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-DPS-JKT-015-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1190000,
+    "seats_left": 6,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-JKT-JOG-015-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 900000,
+    "seats_left": 14,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-JOG-JKT-015-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 850000,
+    "seats_left": 10,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-JKT-JOG-015-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 940000,
+    "seats_left": 10,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-JOG-JKT-015-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 890000,
+    "seats_left": 6,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-JKT-BKK-015-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2100000,
+    "seats_left": 14,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-BKK-JKT-015-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2050000,
+    "seats_left": 10,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-JKT-BKK-015-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2140000,
+    "seats_left": 10,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-BKK-JKT-015-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2090000,
+    "seats_left": 6,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-JKT-TYO-015-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4300000,
+    "seats_left": 14,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-TYO-JKT-015-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4250000,
+    "seats_left": 10,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-JKT-TYO-015-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4340000,
+    "seats_left": 10,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-TYO-JKT-015-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4290000,
+    "seats_left": 6,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-TYO-OSA-015-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1400000,
+    "seats_left": 14,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-OSA-TYO-015-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1350000,
+    "seats_left": 10,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-TYO-OSA-015-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1440000,
+    "seats_left": 10,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-OSA-TYO-015-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1390000,
+    "seats_left": 6,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-TYO-KYT-015-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1200000,
+    "seats_left": 14,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-KYT-TYO-015-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1150000,
+    "seats_left": 10,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-TYO-KYT-015-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1240000,
+    "seats_left": 10,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-KYT-TYO-015-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1190000,
+    "seats_left": 6,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FL-JKT-DPS-016-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1230000,
+    "seats_left": 10,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-DPS-JKT-016-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1180000,
+    "seats_left": 6,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-JKT-DPS-016-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1270000,
+    "seats_left": 6,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-DPS-JKT-016-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1220000,
+    "seats_left": 4,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-JKT-JOG-016-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 930000,
+    "seats_left": 10,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-JOG-JKT-016-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 880000,
+    "seats_left": 6,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-JKT-JOG-016-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 970000,
+    "seats_left": 6,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-JOG-JKT-016-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 920000,
+    "seats_left": 4,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-JKT-BKK-016-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2130000,
+    "seats_left": 10,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-BKK-JKT-016-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2080000,
+    "seats_left": 6,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-JKT-BKK-016-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2170000,
+    "seats_left": 6,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-BKK-JKT-016-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2120000,
+    "seats_left": 4,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-JKT-TYO-016-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4330000,
+    "seats_left": 10,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-TYO-JKT-016-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4280000,
+    "seats_left": 6,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-JKT-TYO-016-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4370000,
+    "seats_left": 6,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-TYO-JKT-016-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4320000,
+    "seats_left": 4,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-TYO-OSA-016-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1430000,
+    "seats_left": 10,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-OSA-TYO-016-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1380000,
+    "seats_left": 6,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-TYO-OSA-016-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1470000,
+    "seats_left": 6,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-OSA-TYO-016-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1420000,
+    "seats_left": 4,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-TYO-KYT-016-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1230000,
+    "seats_left": 10,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-KYT-TYO-016-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1180000,
+    "seats_left": 6,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-TYO-KYT-016-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1270000,
+    "seats_left": 6,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-KYT-TYO-016-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1220000,
+    "seats_left": 4,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FL-JKT-DPS-017-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1260000,
+    "seats_left": 6,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-DPS-JKT-017-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1210000,
+    "seats_left": 4,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-JKT-DPS-017-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1300000,
+    "seats_left": 4,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-DPS-JKT-017-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1250000,
+    "seats_left": 0,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-JKT-JOG-017-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 960000,
+    "seats_left": 6,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-JOG-JKT-017-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 910000,
+    "seats_left": 4,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-JKT-JOG-017-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1000000,
+    "seats_left": 4,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-JOG-JKT-017-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 950000,
+    "seats_left": 0,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-JKT-BKK-017-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2160000,
+    "seats_left": 6,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-BKK-JKT-017-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2110000,
+    "seats_left": 4,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-JKT-BKK-017-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2200000,
+    "seats_left": 4,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-BKK-JKT-017-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2150000,
+    "seats_left": 0,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-JKT-TYO-017-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4360000,
+    "seats_left": 6,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-TYO-JKT-017-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4310000,
+    "seats_left": 4,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-JKT-TYO-017-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4400000,
+    "seats_left": 4,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-TYO-JKT-017-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4350000,
+    "seats_left": 0,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-TYO-OSA-017-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1460000,
+    "seats_left": 6,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-OSA-TYO-017-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1410000,
+    "seats_left": 4,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-TYO-OSA-017-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1500000,
+    "seats_left": 4,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-OSA-TYO-017-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1450000,
+    "seats_left": 0,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-TYO-KYT-017-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1260000,
+    "seats_left": 6,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-KYT-TYO-017-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1210000,
+    "seats_left": 4,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-TYO-KYT-017-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1300000,
+    "seats_left": 4,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-KYT-TYO-017-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1250000,
+    "seats_left": 0,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FL-JKT-DPS-018-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1200000,
+    "seats_left": 4,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-DPS-JKT-018-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1150000,
+    "seats_left": 0,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-JKT-DPS-018-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1240000,
+    "seats_left": 0,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-DPS-JKT-018-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1190000,
+    "seats_left": 22,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-JKT-JOG-018-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 900000,
+    "seats_left": 4,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-JOG-JKT-018-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 850000,
+    "seats_left": 0,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-JKT-JOG-018-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 940000,
+    "seats_left": 0,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-JOG-JKT-018-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 890000,
+    "seats_left": 22,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-JKT-BKK-018-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2100000,
+    "seats_left": 4,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-BKK-JKT-018-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2050000,
+    "seats_left": 0,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-JKT-BKK-018-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2140000,
+    "seats_left": 0,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-BKK-JKT-018-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2090000,
+    "seats_left": 22,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-JKT-TYO-018-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4300000,
+    "seats_left": 4,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-TYO-JKT-018-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4250000,
+    "seats_left": 0,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-JKT-TYO-018-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4340000,
+    "seats_left": 0,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-TYO-JKT-018-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4290000,
+    "seats_left": 22,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-TYO-OSA-018-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1400000,
+    "seats_left": 4,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-OSA-TYO-018-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1350000,
+    "seats_left": 0,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-TYO-OSA-018-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1440000,
+    "seats_left": 0,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-OSA-TYO-018-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1390000,
+    "seats_left": 22,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-TYO-KYT-018-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1200000,
+    "seats_left": 4,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-KYT-TYO-018-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1150000,
+    "seats_left": 0,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-TYO-KYT-018-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1240000,
+    "seats_left": 0,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-KYT-TYO-018-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1190000,
+    "seats_left": 22,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FL-JKT-DPS-019-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1230000,
+    "seats_left": 0,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-DPS-JKT-019-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1180000,
+    "seats_left": 22,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-JKT-DPS-019-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1270000,
+    "seats_left": 22,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-DPS-JKT-019-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1220000,
+    "seats_left": 18,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-JKT-JOG-019-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 930000,
+    "seats_left": 0,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-JOG-JKT-019-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 880000,
+    "seats_left": 22,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-JKT-JOG-019-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 970000,
+    "seats_left": 22,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-JOG-JKT-019-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 920000,
+    "seats_left": 18,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-JKT-BKK-019-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2130000,
+    "seats_left": 0,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-BKK-JKT-019-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2080000,
+    "seats_left": 22,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-JKT-BKK-019-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2170000,
+    "seats_left": 22,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-BKK-JKT-019-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2120000,
+    "seats_left": 18,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-JKT-TYO-019-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4330000,
+    "seats_left": 0,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-TYO-JKT-019-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4280000,
+    "seats_left": 22,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-JKT-TYO-019-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4370000,
+    "seats_left": 22,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-TYO-JKT-019-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4320000,
+    "seats_left": 18,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-TYO-OSA-019-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1430000,
+    "seats_left": 0,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-OSA-TYO-019-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1380000,
+    "seats_left": 22,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-TYO-OSA-019-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1470000,
+    "seats_left": 22,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-OSA-TYO-019-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1420000,
+    "seats_left": 18,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-TYO-KYT-019-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1230000,
+    "seats_left": 0,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-KYT-TYO-019-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1180000,
+    "seats_left": 22,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-TYO-KYT-019-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1270000,
+    "seats_left": 22,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-KYT-TYO-019-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1220000,
+    "seats_left": 18,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FL-JKT-DPS-020-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1260000,
+    "seats_left": 22,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-DPS-JKT-020-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1210000,
+    "seats_left": 18,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-JKT-DPS-020-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1300000,
+    "seats_left": 18,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-DPS-JKT-020-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1250000,
+    "seats_left": 14,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-JKT-JOG-020-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 960000,
+    "seats_left": 22,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-JOG-JKT-020-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 910000,
+    "seats_left": 18,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-JKT-JOG-020-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1000000,
+    "seats_left": 18,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-JOG-JKT-020-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 950000,
+    "seats_left": 14,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-JKT-BKK-020-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2160000,
+    "seats_left": 22,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-BKK-JKT-020-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2110000,
+    "seats_left": 18,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-JKT-BKK-020-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2200000,
+    "seats_left": 18,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-BKK-JKT-020-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2150000,
+    "seats_left": 14,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-JKT-TYO-020-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4360000,
+    "seats_left": 22,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-TYO-JKT-020-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4310000,
+    "seats_left": 18,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-JKT-TYO-020-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4400000,
+    "seats_left": 18,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-TYO-JKT-020-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4350000,
+    "seats_left": 14,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-TYO-OSA-020-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1460000,
+    "seats_left": 22,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-OSA-TYO-020-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1410000,
+    "seats_left": 18,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-TYO-OSA-020-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1500000,
+    "seats_left": 18,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-OSA-TYO-020-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1450000,
+    "seats_left": 14,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-TYO-KYT-020-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1260000,
+    "seats_left": 22,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-KYT-TYO-020-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1210000,
+    "seats_left": 18,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-TYO-KYT-020-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1300000,
+    "seats_left": 18,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-KYT-TYO-020-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1250000,
+    "seats_left": 14,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FL-JKT-DPS-021-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1200000,
+    "seats_left": 18,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-DPS-JKT-021-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1150000,
+    "seats_left": 14,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-JKT-DPS-021-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1240000,
+    "seats_left": 14,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-DPS-JKT-021-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1190000,
+    "seats_left": 10,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-JKT-JOG-021-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 900000,
+    "seats_left": 18,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-JOG-JKT-021-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 850000,
+    "seats_left": 14,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-JKT-JOG-021-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 940000,
+    "seats_left": 14,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-JOG-JKT-021-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 890000,
+    "seats_left": 10,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-JKT-BKK-021-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2100000,
+    "seats_left": 18,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-BKK-JKT-021-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2050000,
+    "seats_left": 14,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-JKT-BKK-021-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2140000,
+    "seats_left": 14,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-BKK-JKT-021-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2090000,
+    "seats_left": 10,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-JKT-TYO-021-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4300000,
+    "seats_left": 18,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-TYO-JKT-021-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4250000,
+    "seats_left": 14,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-JKT-TYO-021-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4340000,
+    "seats_left": 14,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-TYO-JKT-021-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4290000,
+    "seats_left": 10,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-TYO-OSA-021-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1400000,
+    "seats_left": 18,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-OSA-TYO-021-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1350000,
+    "seats_left": 14,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-TYO-OSA-021-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1440000,
+    "seats_left": 14,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-OSA-TYO-021-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1390000,
+    "seats_left": 10,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-TYO-KYT-021-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1200000,
+    "seats_left": 18,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-KYT-TYO-021-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1150000,
+    "seats_left": 14,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-TYO-KYT-021-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1240000,
+    "seats_left": 14,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-KYT-TYO-021-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1190000,
+    "seats_left": 10,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FL-JKT-DPS-022-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1230000,
+    "seats_left": 14,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-DPS-JKT-022-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1180000,
+    "seats_left": 10,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-JKT-DPS-022-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1270000,
+    "seats_left": 10,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-DPS-JKT-022-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1220000,
+    "seats_left": 6,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-JKT-JOG-022-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 930000,
+    "seats_left": 14,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-JOG-JKT-022-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 880000,
+    "seats_left": 10,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-JKT-JOG-022-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 970000,
+    "seats_left": 10,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-JOG-JKT-022-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 920000,
+    "seats_left": 6,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-JKT-BKK-022-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2130000,
+    "seats_left": 14,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-BKK-JKT-022-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2080000,
+    "seats_left": 10,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-JKT-BKK-022-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2170000,
+    "seats_left": 10,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-BKK-JKT-022-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2120000,
+    "seats_left": 6,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-JKT-TYO-022-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4330000,
+    "seats_left": 14,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-TYO-JKT-022-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4280000,
+    "seats_left": 10,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-JKT-TYO-022-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4370000,
+    "seats_left": 10,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-TYO-JKT-022-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4320000,
+    "seats_left": 6,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-TYO-OSA-022-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1430000,
+    "seats_left": 14,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-OSA-TYO-022-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1380000,
+    "seats_left": 10,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-TYO-OSA-022-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1470000,
+    "seats_left": 10,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-OSA-TYO-022-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1420000,
+    "seats_left": 6,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-TYO-KYT-022-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1230000,
+    "seats_left": 14,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-KYT-TYO-022-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1180000,
+    "seats_left": 10,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-TYO-KYT-022-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1270000,
+    "seats_left": 10,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-KYT-TYO-022-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1220000,
+    "seats_left": 6,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FL-JKT-DPS-023-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1260000,
+    "seats_left": 10,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-DPS-JKT-023-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1210000,
+    "seats_left": 6,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-JKT-DPS-023-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1300000,
+    "seats_left": 6,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-DPS-JKT-023-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1250000,
+    "seats_left": 4,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-JKT-JOG-023-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 960000,
+    "seats_left": 10,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-JOG-JKT-023-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 910000,
+    "seats_left": 6,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-JKT-JOG-023-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1000000,
+    "seats_left": 6,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-JOG-JKT-023-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 950000,
+    "seats_left": 4,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-JKT-BKK-023-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2160000,
+    "seats_left": 10,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-BKK-JKT-023-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2110000,
+    "seats_left": 6,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-JKT-BKK-023-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2200000,
+    "seats_left": 6,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-BKK-JKT-023-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2150000,
+    "seats_left": 4,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-JKT-TYO-023-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4360000,
+    "seats_left": 10,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-TYO-JKT-023-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4310000,
+    "seats_left": 6,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-JKT-TYO-023-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4400000,
+    "seats_left": 6,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-TYO-JKT-023-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4350000,
+    "seats_left": 4,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-TYO-OSA-023-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1460000,
+    "seats_left": 10,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-OSA-TYO-023-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1410000,
+    "seats_left": 6,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-TYO-OSA-023-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1500000,
+    "seats_left": 6,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-OSA-TYO-023-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1450000,
+    "seats_left": 4,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-TYO-KYT-023-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1260000,
+    "seats_left": 10,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-KYT-TYO-023-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1210000,
+    "seats_left": 6,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-TYO-KYT-023-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1300000,
+    "seats_left": 6,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-KYT-TYO-023-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1250000,
+    "seats_left": 4,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FL-JKT-DPS-024-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1200000,
+    "seats_left": 6,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-DPS-JKT-024-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1150000,
+    "seats_left": 4,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-JKT-DPS-024-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1240000,
+    "seats_left": 4,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-DPS-JKT-024-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1190000,
+    "seats_left": 0,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-JKT-JOG-024-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 900000,
+    "seats_left": 6,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-JOG-JKT-024-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 850000,
+    "seats_left": 4,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-JKT-JOG-024-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 940000,
+    "seats_left": 4,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-JOG-JKT-024-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 890000,
+    "seats_left": 0,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-JKT-BKK-024-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2100000,
+    "seats_left": 6,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-BKK-JKT-024-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2050000,
+    "seats_left": 4,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-JKT-BKK-024-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2140000,
+    "seats_left": 4,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-BKK-JKT-024-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2090000,
+    "seats_left": 0,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-JKT-TYO-024-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4300000,
+    "seats_left": 6,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-TYO-JKT-024-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4250000,
+    "seats_left": 4,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-JKT-TYO-024-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4340000,
+    "seats_left": 4,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-TYO-JKT-024-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4290000,
+    "seats_left": 0,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-TYO-OSA-024-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1400000,
+    "seats_left": 6,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-OSA-TYO-024-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1350000,
+    "seats_left": 4,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-TYO-OSA-024-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1440000,
+    "seats_left": 4,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-OSA-TYO-024-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1390000,
+    "seats_left": 0,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-TYO-KYT-024-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1200000,
+    "seats_left": 6,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-KYT-TYO-024-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1150000,
+    "seats_left": 4,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-TYO-KYT-024-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1240000,
+    "seats_left": 4,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-KYT-TYO-024-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1190000,
+    "seats_left": 0,
+    "date": "2025-12-30"
+  },
+  {
+    "id": "FL-JKT-DPS-025-01",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1230000,
+    "seats_left": 4,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-DPS-JKT-025-01",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Garuda Nusantara",
+    "base_price_idr": 1180000,
+    "seats_left": 0,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-JKT-DPS-025-02",
+    "from": "Jakarta",
+    "to": "Bali",
+    "airline": "Island Hopper",
+    "base_price_idr": 1270000,
+    "seats_left": 0,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-DPS-JKT-025-02",
+    "from": "Bali",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 1220000,
+    "seats_left": 22,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-JKT-JOG-025-01",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 930000,
+    "seats_left": 4,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-JOG-JKT-025-01",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Aero Archipelago",
+    "base_price_idr": 880000,
+    "seats_left": 0,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-JKT-JOG-025-02",
+    "from": "Jakarta",
+    "to": "Yogyakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 970000,
+    "seats_left": 0,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-JOG-JKT-025-02",
+    "from": "Yogyakarta",
+    "to": "Jakarta",
+    "airline": "Island Hopper",
+    "base_price_idr": 920000,
+    "seats_left": 22,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-JKT-BKK-025-01",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Asean Sky",
+    "base_price_idr": 2130000,
+    "seats_left": 4,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-BKK-JKT-025-01",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Asean Sky",
+    "base_price_idr": 2080000,
+    "seats_left": 0,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-JKT-BKK-025-02",
+    "from": "Jakarta",
+    "to": "Bangkok",
+    "airline": "Siam Wings",
+    "base_price_idr": 2170000,
+    "seats_left": 0,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-BKK-JKT-025-02",
+    "from": "Bangkok",
+    "to": "Jakarta",
+    "airline": "Siam Wings",
+    "base_price_idr": 2120000,
+    "seats_left": 22,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-JKT-TYO-025-01",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4330000,
+    "seats_left": 4,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-TYO-JKT-025-01",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Pacific Sunrise",
+    "base_price_idr": 4280000,
+    "seats_left": 0,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-JKT-TYO-025-02",
+    "from": "Jakarta",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 4370000,
+    "seats_left": 0,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-TYO-JKT-025-02",
+    "from": "Tokyo",
+    "to": "Jakarta",
+    "airline": "Sakura Air",
+    "base_price_idr": 4320000,
+    "seats_left": 22,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-TYO-OSA-025-01",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1430000,
+    "seats_left": 4,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-OSA-TYO-025-01",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1380000,
+    "seats_left": 0,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-TYO-OSA-025-02",
+    "from": "Tokyo",
+    "to": "Osaka",
+    "airline": "Sakura Air",
+    "base_price_idr": 1470000,
+    "seats_left": 0,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-OSA-TYO-025-02",
+    "from": "Osaka",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1420000,
+    "seats_left": 22,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-TYO-KYT-025-01",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1230000,
+    "seats_left": 4,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-KYT-TYO-025-01",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Shinkai Express",
+    "base_price_idr": 1180000,
+    "seats_left": 0,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-TYO-KYT-025-02",
+    "from": "Tokyo",
+    "to": "Kyoto",
+    "airline": "Sakura Air",
+    "base_price_idr": 1270000,
+    "seats_left": 0,
+    "date": "2025-12-31"
+  },
+  {
+    "id": "FL-KYT-TYO-025-02",
+    "from": "Kyoto",
+    "to": "Tokyo",
+    "airline": "Sakura Air",
+    "base_price_idr": 1220000,
+    "seats_left": 22,
+    "date": "2025-12-31"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "country": "Indonesia",
+    "city": "Bali",
+    "typical_themes": ["beach", "wellness"],
+    "hotel_price_range_per_night_idr": [500000, 2000000],
+    "example_attractions": ["Uluwatu Temple", "Ubud Monkey Forest", "Seminyak Beach", "Tegallalang Rice Terrace"],
+    "local_transport_notes": "Scooters and ride-hailing apps are the most common ways to get around; private drivers for day trips."
+  },
+  {
+    "country": "Indonesia",
+    "city": "Yogyakarta",
+    "typical_themes": ["temples", "culture", "history"],
+    "hotel_price_range_per_night_idr": [300000, 1200000],
+    "example_attractions": ["Borobudur", "Prambanan", "Malioboro Street", "Kraton Palace"],
+    "local_transport_notes": "Ride-hailing bikes/cars and local taxis; many attractions reachable with day tours."
+  },
+  {
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "typical_themes": ["city", "food", "shopping"],
+    "hotel_price_range_per_night_idr": [400000, 2000000],
+    "example_attractions": ["National Monument (Monas)", "Kota Tua", "Ancol Dreamland", "Grand Indonesia Mall"],
+    "local_transport_notes": "MRT, TransJakarta buses, ride-hailing for gaps; traffic can be heavy so plan buffers."
+  },
+  {
+    "country": "Japan",
+    "city": "Tokyo",
+    "typical_themes": ["city", "food", "shopping"],
+    "hotel_price_range_per_night_idr": [1000000, 3000000],
+    "example_attractions": ["Shibuya Crossing", "Asakusa Senso-ji", "Tokyo Skytree", "Tsukiji Outer Market"],
+    "local_transport_notes": "Extensive metro and JR lines; IC cards (Suica/PASMO) make travel easy."
+  },
+  {
+    "country": "Japan",
+    "city": "Kyoto",
+    "typical_themes": ["temples", "culture", "nature"],
+    "hotel_price_range_per_night_idr": [800000, 2500000],
+    "example_attractions": ["Fushimi Inari Shrine", "Kiyomizu-dera", "Arashiyama Bamboo Grove", "Gion District"],
+    "local_transport_notes": "Buses and JR/subway lines cover major sights; walking is common in temple districts."
+  },
+  {
+    "country": "Japan",
+    "city": "Osaka",
+    "typical_themes": ["food", "city", "nightlife"],
+    "hotel_price_range_per_night_idr": [800000, 2200000],
+    "example_attractions": ["Dotonbori", "Osaka Castle", "Umeda Sky Building", "Shinsekai"],
+    "local_transport_notes": "Subway and JR lines connect neighborhoods; easy day trips to Kyoto and Nara."
+  },
+  {
+    "country": "Italy",
+    "city": "Rome",
+    "typical_themes": ["history", "culture", "city"],
+    "hotel_price_range_per_night_idr": [1200000, 2800000],
+    "example_attractions": ["Colosseum", "Vatican Museums", "Trevi Fountain", "Pantheon"],
+    "local_transport_notes": "Metro, buses, and plenty of walking between central sights; taxis for late nights."
+  },
+  {
+    "country": "Italy",
+    "city": "Florence",
+    "typical_themes": ["art", "culture", "city"],
+    "hotel_price_range_per_night_idr": [1000000, 2400000],
+    "example_attractions": ["Duomo di Firenze", "Uffizi Gallery", "Ponte Vecchio", "Piazzale Michelangelo"],
+    "local_transport_notes": "Compact historic center best explored on foot; regional trains for Tuscan day trips."
+  },
+  {
+    "country": "Thailand",
+    "city": "Bangkok",
+    "typical_themes": ["city", "food", "nightlife"],
+    "hotel_price_range_per_night_idr": [400000, 1500000],
+    "example_attractions": ["Grand Palace", "Wat Arun", "Chatuchak Market", "Chao Phraya River"],
+    "local_transport_notes": "BTS/MRT for main areas; river boats for old town; tuk-tuks and ride-hailing fill gaps."
+  },
+  {
+    "country": "Thailand",
+    "city": "Phuket",
+    "typical_themes": ["beach", "islands", "relaxation"],
+    "hotel_price_range_per_night_idr": [500000, 1800000],
+    "example_attractions": ["Patong Beach", "Big Buddha", "Phi Phi day trips", "Old Phuket Town"],
+    "local_transport_notes": "Taxis and ride-hailing apps dominate; many resorts offer shuttles to main beaches."
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "has_payment": true,
+  "card_last4": "1312",
+  "card_brand": "Amex",
+  "token_id": "tok_demo_60950de24e344e84bffd9bbb89449bf8",
+  "auto_book_allowed": true
+}

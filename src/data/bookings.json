@@ -1,0 +1,161 @@
+[
+  {
+    "booking_id": "BK-0001",
+    "created_at": "2025-12-07T04:11:37.168945",
+    "country": "Japan",
+    "cities": [
+      "Tokyo"
+    ],
+    "start_date": "2025-12-07",
+    "end_date": "2025-12-11",
+    "flight_ids": [
+      "FL-JKT-TYO-001-01",
+      "FL-TYO-JKT-005-01"
+    ],
+    "hotel_ids": [
+      "HT-TOK-BA-000"
+    ],
+    "stays": [
+      {
+        "hotel_id": "HT-TOK-BA-000",
+        "hotel_name": "Tokyo Backpacker Stay 0",
+        "city": "Tokyo",
+        "country": "Japan",
+        "nights": 5,
+        "stay_start_date": "2025-12-07",
+        "stay_end_date": "2025-12-11",
+        "category": "backpacker",
+        "price_per_night_idr": 450000
+      }
+    ],
+    "flight_details": [
+      {
+        "id": "FL-JKT-TYO-001-01",
+        "from": "Jakarta",
+        "to": "Tokyo",
+        "airline": "Pacific Sunrise",
+        "base_price_idr": 4330000,
+        "seats_left": 14,
+        "date": "2025-12-07"
+      },
+      {
+        "id": "FL-TYO-JKT-005-01",
+        "from": "Tokyo",
+        "to": "Jakarta",
+        "airline": "Pacific Sunrise",
+        "base_price_idr": 4310000,
+        "seats_left": 22,
+        "date": "2025-12-11"
+      }
+    ],
+    "total_price_idr": 13068000,
+    "payment_transaction_id": "pay_07891099535f4ffc93f89c483ae7619c",
+    "card_last4": "5443"
+  },
+  {
+    "booking_id": "BK-0002",
+    "created_at": "2025-12-07T04:39:53.475287",
+    "country": "Japan",
+    "cities": [
+      "Tokyo"
+    ],
+    "start_date": "2025-12-07",
+    "end_date": "2025-12-11",
+    "flight_ids": [
+      "FL-JKT-TYO-001-01",
+      "FL-TYO-JKT-005-01"
+    ],
+    "hotel_ids": [
+      "HT-TOK-BA-000"
+    ],
+    "stays": [
+      {
+        "hotel_id": "HT-TOK-BA-000",
+        "hotel_name": "Tokyo Backpacker Stay 0",
+        "city": "Tokyo",
+        "country": "Japan",
+        "nights": 5,
+        "stay_start_date": "2025-12-07",
+        "stay_end_date": "2025-12-11",
+        "category": "backpacker",
+        "price_per_night_idr": 450000
+      }
+    ],
+    "flight_details": [
+      {
+        "id": "FL-JKT-TYO-001-01",
+        "from": "Jakarta",
+        "to": "Tokyo",
+        "airline": "Pacific Sunrise",
+        "base_price_idr": 4330000,
+        "seats_left": 13,
+        "date": "2025-12-07"
+      },
+      {
+        "id": "FL-TYO-JKT-005-01",
+        "from": "Tokyo",
+        "to": "Jakarta",
+        "airline": "Pacific Sunrise",
+        "base_price_idr": 4310000,
+        "seats_left": 21,
+        "date": "2025-12-11"
+      }
+    ],
+    "total_price_idr": 13068000,
+    "payment_transaction_id": "pay_fe0e938b2ab342e2ab6ac0383ad42abd",
+    "card_last4": "5443"
+  },
+  {
+    "booking_id": "BK-0003",
+    "created_at": "2025-12-07T06:01:22.722645",
+    "country": "Japan",
+    "cities": [
+      "Tokyo"
+    ],
+    "start_date": "2025-12-07",
+    "end_date": "2025-12-09",
+    "flight_ids": [
+      "FL-JKT-TYO-001-01",
+      "FL-TYO-JKT-003-01"
+    ],
+    "hotel_ids": [
+      "HT-TOK-BA-000"
+    ],
+    "stays": [
+      {
+        "hotel_id": "HT-TOK-BA-000",
+        "hotel_name": "Tokyo Backpacker Stay 0",
+        "city": "Tokyo",
+        "country": "Japan",
+        "nights": 3,
+        "stay_start_date": "2025-12-07",
+        "stay_end_date": "2025-12-09",
+        "category": "backpacker",
+        "price_per_night_idr": 450000
+      }
+    ],
+    "flight_details": [
+      {
+        "id": "FL-JKT-TYO-001-01",
+        "from": "Jakarta",
+        "to": "Tokyo",
+        "airline": "Pacific Sunrise",
+        "base_price_idr": 4330000,
+        "seats_left": 12,
+        "date": "2025-12-07"
+      },
+      {
+        "id": "FL-TYO-JKT-003-01",
+        "from": "Tokyo",
+        "to": "Jakarta",
+        "airline": "Pacific Sunrise",
+        "base_price_idr": 4250000,
+        "seats_left": 4,
+        "date": "2025-12-09"
+      }
+    ],
+    "total_price_idr": 11916000,
+    "payment_transaction_id": "pay_7104c4e954a94d459d8fe947143717be",
+    "card_last4": "1312"
+  }
+]
